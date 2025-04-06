@@ -44,7 +44,8 @@ app.UseSwagger();
 app.UseSwaggerUI();
 
 // Redireciona requisições HTTP para HTTPS
-app.UseHttpsRedirection();
+//app.UseHttpsRedirection();
+
 
 // Ativa a autorização (sem autenticação configurada por enquanto)
 app.UseAuthorization();

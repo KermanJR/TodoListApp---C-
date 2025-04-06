@@ -10,7 +10,7 @@ namespace TodoListApp.Services
     public class TaskService
     {
         private readonly HttpClient _httpClient;
-        private const string BaseUrl = "https://localhost:7230/api/tasks"; 
+        private const string BaseUrl = "http://10.0.2.2:7230/api/tasks";
 
         public TaskService()
         {

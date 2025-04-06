@@ -295,3 +295,6 @@ C:\Users\Kerman\source\repos\TodoListApp\TodoListApp\obj\Debug\net9.0-maccatalys
 C:\Users\Kerman\source\repos\TodoListApp\TodoListApp\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\TodoListApp.pdb
 C:\Users\Kerman\source\repos\TodoListApp\TodoListApp\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\TodoListApp.genruntimeconfig.cache
 C:\Users\Kerman\source\repos\TodoListApp\TodoListApp\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\ref\TodoListApp.dll
+C:\Users\Kerman\source\repos\TodoListApp\TodoListApp\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\Microsoft.Maui.Controls.HotReload.Forms.dll
+C:\Users\Kerman\source\repos\TodoListApp\TodoListApp\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\Microsoft.VisualStudio.DesignTools.MobileTapContracts.dll
+C:\Users\Kerman\source\repos\TodoListApp\TodoListApp\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\Microsoft.VisualStudio.DesignTools.TapContract.dll

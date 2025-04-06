@@ -9,9 +9,10 @@
         <ListView x:Name="TaskList">
             <ListView.ItemTemplate>
                 <DataTemplate>
-                    <TextCell Text="{Binding}" />
+                    <TextCell Text="{Binding Description}" />
                 </DataTemplate>
             </ListView.ItemTemplate>
         </ListView>
+
     </VerticalStackLayout>
 </ContentPage>
