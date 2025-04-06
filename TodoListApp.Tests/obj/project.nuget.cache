@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "OcfrwJ2zq0A=",
+  "success": false,
+  "projectFilePath": "C:\\Users\\Kerman\\source\\repos\\TodoListApp\\TodoListApp.Tests\\TodoListApp.Tests.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "O projeto TodoListApp não é compatível com net9.0 (.NETCoreApp,Version=v9.0). O projeto TodoListApp dá suporte a:\r\n  - net9.0-android35.0 (.NETCoreApp,Version=v9.0)\r\n  - net9.0-ios18.2 (.NETCoreApp,Version=v9.0)\r\n  - net9.0-maccatalyst18.2 (.NETCoreApp,Version=v9.0)\r\n  - net9.0-windows10.0.19041 (.NETCoreApp,Version=v9.0)",
+      "libraryId": "TodoListApp",
+      "targetGraphs": [
+        "net9.0"
+      ]
+    }
+  ]
+}
